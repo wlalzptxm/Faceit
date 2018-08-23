@@ -12,6 +12,7 @@
 		32C86FF2212E99EA00A83B05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32C86FF0212E99EA00A83B05 /* Main.storyboard */; };
 		32C86FF4212E99EC00A83B05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32C86FF3212E99EC00A83B05 /* Assets.xcassets */; };
 		32C86FF7212E99EC00A83B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32C86FF5212E99EC00A83B05 /* LaunchScreen.storyboard */; };
+		32C86FFF212E9B1F00A83B05 /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C86FFE212E9B1F00A83B05 /* FaceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		32C86FF3212E99EC00A83B05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32C86FF6212E99EC00A83B05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32C86FF8212E99EC00A83B05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32C86FFE212E9B1F00A83B05 /* FaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				32C86FEC212E99EA00A83B05 /* AppDelegate.swift */,
 				32C86FEE212E99EA00A83B05 /* FaceViewController.swift */,
 				32C86FF0212E99EA00A83B05 /* Main.storyboard */,
+				32C86FFE212E9B1F00A83B05 /* FaceView.swift */,
 				32C86FF3212E99EC00A83B05 /* Assets.xcassets */,
 				32C86FF5212E99EC00A83B05 /* LaunchScreen.storyboard */,
 				32C86FF8212E99EC00A83B05 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				32C86FEF212E99EA00A83B05 /* FaceViewController.swift in Sources */,
 				32C86FED212E99EA00A83B05 /* AppDelegate.swift in Sources */,
+				32C86FFF212E9B1F00A83B05 /* FaceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
